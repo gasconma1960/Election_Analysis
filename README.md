@@ -66,8 +66,8 @@ Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 
 -------------------------
+![image](https://user-images.githubusercontent.com/112348240/197436918-ec06a1c0-0bcf-490b-bfb3-c83001db99cc.png)
 
-![image](https://user-images.githubusercontent.com/112348240/197436292-8aaf39ef-883a-450f-8689-36964e577384.png)
 
 ![image](https://user-images.githubusercontent.com/112348240/197436403-c039d77b-2c76-4f35-b933-0a731030c304.png)
 
